@@ -1,7 +1,7 @@
 # travel
 
 A new Flutter project.
-
+<img src="assests/travelui.gif" width='100' height='200'/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
