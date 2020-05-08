@@ -1,7 +1,7 @@
 # travel
-
-A new Flutter project.
 <img src="travelui.gif" width='100' height='200'/>
+A new Flutter project.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
